@@ -1,0 +1,9 @@
+.box {
+  display: flex;
+  justify-content: center;
+  .dad {
+    padding: 10px;
+    margin: 20px;
+    border: 1px solid red;
+  }
+}
